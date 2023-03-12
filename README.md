@@ -1,5 +1,4 @@
-`#` Data Science Folder 
-This folder contains Movie Recommendations, Stock Predictions, and Forex Predictions using Python
+`Data Science Folder`
 This repository contains Python code for three different data science projects:
 
 Movie Recommendations
@@ -7,11 +6,11 @@ Stock Predictions
 Forex Predictions
 Each project has its own folder containing the code and relevant data files.
 
-Getting Started
+`Getting Started`
 To run the code in this repository, you will need Python 3 installed on your machine, along with several libraries including pandas, numpy, and scikit-learn. You can install these libraries using pip:
 
 Copy code
-pip install pandas numpy scikit-learn
+`pip install pandas numpy scikit-learn`
 Movie Recommendations
 The movie_recommendations folder contains Python code for building a movie recommendation system using collaborative filtering. The dataset used is the MovieLens dataset, which contains ratings for over 27,000 movies by over 138,000 users.
 
