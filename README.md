@@ -1,4 +1,4 @@
-'#' Data Science Folder 
+`#` Data Science Folder 
 This folder contains Movie Recommendations, Stock Predictions, and Forex Predictions using Python
 This repository contains Python code for three different data science projects:
 
