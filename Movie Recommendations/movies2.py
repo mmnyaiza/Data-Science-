@@ -4,7 +4,7 @@ import os
 #
 cwd = os.getcwd()
 # Load the ratings dataset
-ratings = pd.read_csv('ratings.csv')
+ratings = pd.read_csv('/mnt/c/Users/Mphumzi/Downloads/Root/Movie recommendation/ml-latest-small/ml-latest-small/ratings.csv')
 
 # Load the movies dataset
 movies = pd.read_csv('movies.csv')
